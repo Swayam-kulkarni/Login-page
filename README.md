@@ -1,4 +1,5 @@
-# Login-page- COOL ANIMATED AND MODERN
-THIS LOGIN PAGE IS MADE WITH PURE HTML AND CSS
-IT FEATURES ANIMATION ALONG WITH A MODERN NAV BAR
+## LOGIN PAGE - COOL ANIMATED AND MODERN PAGE=
+
+This login page is made with pure HTML and CSS.
+It features animation along with a modern Navigation Bar.
 
